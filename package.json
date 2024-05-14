@@ -1,0 +1,22 @@
+{
+  "name": "hellonode",
+  "version": "1.0.0",
+  "description": "hello node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anderruiz/hellonode.git"
+  },
+  "author": "Ander Ruiz",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/anderruiz/hellonode/issues"
+  },
+  "homepage": "https://github.com/anderruiz/hellonode#readme"
+    "dependencies": {
+    "@mosfe/portal-proxy": "^1.1.7"
+  }
+}
